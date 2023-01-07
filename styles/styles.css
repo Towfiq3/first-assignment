@@ -71,7 +71,7 @@ ul li{
 .contact{
     background-image: url(/watch.png);
     height: 300px;
-    padding: 30px 40px;
+    padding: 30px 80px;
     background-repeat: no-repeat;
     /* align-items: center; */
     margin-left: 200px;
@@ -82,4 +82,51 @@ ul li{
     font-size: 50px;
     margin-top: 40px;
     color: aliceblue;
+}
+/* last stage */
+.footer-items{
+    display: flex;
+    padding: 60px 300px;
+    background-color: rgb(41, 41, 136);
+    background-size: cover;
+    height: 350px;
+    gap: 300px; 
+}
+.footer-title{
+    font-size: 30px;
+    /* padding-bottom: 5px; */
+    margin-top: 50px;
+}
+.last-btn{
+    border: none;
+   height: 50px;
+   padding: 0 15px;
+   border-radius: 6px;
+   font-size: 20px;
+   margin-top: 10px;
+   background-color: burlywood;  
+}
+.footer-discription{
+    padding-bottom: 5px;
+}
+.footer-info{
+    /* margin-bottom: 10px; */
+}
+/* future */
+.future-plan{
+    text-align: center;
+    background-color: aqua;
+    margin: 50px 200px;
+    height: 200px;
+    border-radius: 10px;
+    padding: 30px 40px ;
+}
+.future-title{
+    font-size: 30px;
+    padding-top: 10px;
+}
+.future-discription{
+    font-size: 20px;
+    padding-top: 20px;
+    color: rgb(46, 39, 30);
 }
