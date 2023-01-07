@@ -62,4 +62,24 @@ ul li{
 }
 .info-subtitle{
     font-size: 17px;
+    /* text-align: center; */
+}
+/* contact */
+.contact-info{
+    margin-top: 65px;
+}
+.contact{
+    background-image: url(/watch.png);
+    height: 300px;
+    padding: 30px 40px;
+    background-repeat: no-repeat;
+    /* align-items: center; */
+    margin-left: 200px;
+    /* background: linear-gradient( red white) */
+    /* background-size: cover; */
+}
+.contact-title{
+    font-size: 50px;
+    margin-top: 40px;
+    color: aliceblue;
 }
