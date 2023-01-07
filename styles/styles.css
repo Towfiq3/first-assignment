@@ -26,3 +26,40 @@
 .banner-discription{
     color: rgb(252, 233, 233);
 }
+/* container */
+.container{
+    display: flex;
+    align-items: center;
+    margin: 100px 150px;
+    gap: 60px;
+}
+.container-title{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container-subtitle{
+    color: rgb(59, 91, 96);
+}
+ul li{
+    /* list-style:square inside url("sqpurple.gif"); */
+    color:  rgb(59, 91, 96);
+}
+/* plans container */
+.plans-title{
+    text-align: center;
+    font-size: 40px;
+    /* font-weight: 10px; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.plans-info-container{
+    justify-content: space-evenly;
+    display: flex;
+    margin-top: 40px;
+    padding: 20px 80px;
+}
+.info-title{
+    font-size: 30px;
+}
+.info-subtitle{
+    font-size: 17px;
+}
