@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+.banner{
+    background-image: url(/banner/banner3.png);
+    height: 800px;
+    text-align: right;
+    padding-right: 90px;
+}
+.btn-praimary{
+   background-color: aqua;
+   border: none;
+   height: 50px;
+   padding: 0 25px;
+   border-radius: 6px;
+   font-size: 20px;
+   margin-top: 10px;
+}
+.banner-title{
+    padding: 240px 50px;
+}
+.banner-head{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.banner-discription{
+    color: rgb(252, 233, 233);
+}
